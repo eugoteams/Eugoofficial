@@ -1,13 +1,9 @@
-import React from "react"
-import Blog from "../components/blog"
-import Layout from "../components/layout"
+import React from 'react'
 
 export default function () {
-  return (
-    <>
-      <Layout>
-        <Blog />
-      </Layout>
-    </>
-  )
+    return (
+        <div>
+            <p>I need to add blog As fast as i can and Correct my login issue.</p>
+        </div>
+    )
 }
