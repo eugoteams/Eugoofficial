@@ -1,10 +1,10 @@
 ---
 path: life-in-paris
-title: Life In paris
 date: 2021-04-06T20:50:38.640Z
-description: >-
-  
-  A world full of fun, adventure, and profit awaits! Sign up for our free daily e-letter, Overseas Opportunity Letter, and we'll send you a FREE report on the 10 Best Places To Retire In Style Overseas Today
+title: Life In paris
+description: test A world full of fun, adventure, and profit awaits! Sign up for
+  our free daily e-letter, Overseas Opportunity Letter, and we'll send you a
+  FREE report on the 10 Best Places To Retire In Style Overseas Today
 image: assets/paris-on-a-budget.jpg
 tags:
   - lifestyle
